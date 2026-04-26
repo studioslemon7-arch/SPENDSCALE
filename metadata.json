@@ -1,0 +1,6 @@
+{
+  "name": "Spending Percentage Calculator",
+  "description": "Calculates what percentage of your total budget an item costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
